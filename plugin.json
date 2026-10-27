@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "launchdog",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Launch your product on Launchdog, the weekly launch board, from your coding agent: it drafts the listing from your site, books a free or paid week and adds the badge.",
   "author": {
     "name": "Launchdog",
@@ -32,8 +32,8 @@
         "termsOfServiceURL": "https://launchdog.dev/terms-and-conditions",
         "defaultPrompt": "Launch this product on Launchdog",
         "brandColor": "#F5B83D",
-        "logo": "./assets/logo.svg",
-        "composerIcon": "./assets/logo.svg"
+        "logo": "./assets/logo.png",
+        "composerIcon": "./assets/logo.png"
       }
     }
   }

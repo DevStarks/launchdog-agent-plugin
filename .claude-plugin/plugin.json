@@ -1,7 +1,7 @@
 {
   "name": "launchdog",
   "displayName": "Launchdog",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Launch your product on Launchdog, the weekly launch board, from your coding agent: it drafts the listing from your site, books a free or paid week and adds the badge.",
   "author": {
     "name": "Launchdog",
@@ -19,9 +19,9 @@
     "makers",
     "marketing"
   ],
-  "icon": "./assets/logo.svg",
+  "icon": "./assets/logo.png",
   "documentationUrl": "https://launchdog.dev/docs/mcp",
-  "supportUrl": "https://launchdog.dev/connect",
+  "supportUrl": "https://github.com/DevStarks/launchdog-agent-plugin/issues",
   "privacyPolicyUrl": "https://launchdog.dev/privacy-policy",
   "termsOfServiceUrl": "https://launchdog.dev/terms-and-conditions"
 }
