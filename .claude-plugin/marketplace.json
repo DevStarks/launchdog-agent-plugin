@@ -1,0 +1,16 @@
+{
+  "name": "launchdog",
+  "description": "The Launchdog agent plugin",
+  "owner": {
+    "name": "Launchdog",
+    "email": "support@launchdog.dev",
+    "url": "https://launchdog.dev"
+  },
+  "plugins": [
+    {
+      "name": "launchdog",
+      "source": "./",
+      "description": "Launch your product on Launchdog, the weekly launch board, from your coding agent: it drafts the listing from your site, books a free or paid week and adds the badge."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "launchdog": {
+      "type": "http",
+      "url": "https://launchdog.dev/mcp"
+    }
+  }
+}
