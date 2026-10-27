@@ -1,7 +1,7 @@
 {
   "name": "launchdog",
   "displayName": "Launchdog",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Launch your product on Launchdog, the weekly launch board, from your coding agent: it drafts the listing from your site, books a free or paid week and adds the badge.",
   "author": {
     "name": "Launchdog",
