@@ -11,7 +11,7 @@ This plugin adds the `launchdog` MCP server (https://launchdog.dev/mcp). Its too
 
 If the `launchdog` tools (`whoami`, `create_product`, …) aren't available to you, the person hasn't signed in yet. Stop and tell them how, then wait:
 
-- Claude Code: run `/mcp`, pick `launchdog` and Authenticate. In the Claude desktop app, then start a new session: a session loads its MCP servers when it starts.
+- Claude Code: run `/mcp`, pick `plugin:launchdog:launchdog` and Authenticate. In the Claude desktop app, then start a new session: a session loads its MCP servers when it starts.
 - Codex: sign in to Launchdog when Codex asks (or from its MCP settings), then resume with `codex resume --last`.
 - Cursor: open Cursor Settings → MCP, turn `launchdog` on and sign in.
 
